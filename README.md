@@ -4,6 +4,6 @@ and go ahead, make our day. We believe that great engineering deserves to be pai
 
 Our open positions:
 
-* [Software Engineer / Go](software-engineer-01)
-* [Software Engineer / React](software-engineer-02)
-* [Software Engineer / SRE](site-reliability-engineering-01)
+* [Software Engineer / Go](software-engineer-01.md)
+* [Software Engineer / React](software-engineer-02.md)
+* [Software Engineer / SRE](site-reliability-engineering-01.md)
