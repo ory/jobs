@@ -6,4 +6,4 @@ Our open positions:
 * [Software Engineer / React](software-engineer-02)
 * [Software Engineer / SRE](site-reliability-engineering)
 
-Interested? Reach out to jared@ory.sh
+Interested? Reach out to [jared@ory.sh](mailto:jared@ory.sh)
