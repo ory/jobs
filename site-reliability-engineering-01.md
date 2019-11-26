@@ -1,5 +1,7 @@
 ## Software Engineer / SRE
 
+We are looking for people with a broad set of technical skills who are ready to take on some of technology's challenges and work with others to create world class solutions
+
 Site Reliability Engineering (SRE) combines software and systems engineering to build and run large-scale, distributed, fault-tolerant systems. SRE ensures that services have reliability, uptime appropriate to users' needs and a fast rate of improvement. Additionally SRE’s will keep watchful eyes on our systems capacity and performance. Our software development focuses on building infrastructure and eliminating work through automation.
 
 Your responsibilities will include:
