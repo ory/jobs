@@ -1,6 +1,6 @@
 ## Software Engineer
 
-Come join one of the most exciting cloud software engineering initiatives around. ORY is working on providing cutting edge headless cloud infrastructure. Our users and customers rely on ORY technology to help them deliver compelling services and applications and to master the challenges of the cloud!
+We are looking for people with a broad set of technical skills who are ready to take on some of technology's challenges and work with others to create world class solutions.
 
 As a key member of a small and versatile team, you design, test, deploy and maintain software solutions. We're looking for engineers who bring fresh ideas from all areas and you will specialize in building responsive and elegant web applications that can be used and scaled to millions of users.
 
