@@ -21,3 +21,5 @@ You should have experience in:
 * Go programming language;
 * Kubernetes from the user’s perspective; and
 * Ability to project manage projects and prioritize tasks.
+
+Interested? Reach out to jared@ory.sh
