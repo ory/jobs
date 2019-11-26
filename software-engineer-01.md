@@ -20,4 +20,4 @@ You should have experience in:
 * Contribution to Kubernetes or any other Open Source project;
 * Go programming language;
 * Kubernetes from the user’s perspective; and
-* Ability to project manage projects and prioritize tasks.
+* Ability to manage projects and prioritize tasks.
