@@ -1,4 +1,4 @@
-# Software Engineer
+## Software Engineer
 
 We are looking for people with a broad set of technical skills who are ready to take on some of technology's challenges and work with others to create world class solutions.
 
@@ -21,5 +21,3 @@ You should have experience in:
 * Go programming language;
 * Kubernetes from the user’s perspective; and
 * Ability to project manage projects and prioritize tasks.
-
-Interested? Reach out to jared@ory.sh
