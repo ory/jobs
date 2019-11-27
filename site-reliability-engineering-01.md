@@ -18,3 +18,6 @@ You should have experience in:
 * One or more of the following : C, C++, Java Script, Python, Go, or Ruby.
 * Analyzing and troubleshooting systems.
 * Unix/Linux operating systems internals and administration e.g., filesystems, inodes, system calls or networking e.g., TCP/IP, network topologies and hardware, and SDN.
+
+Interested? Just [open an issue](https://github.com/ory/jobs/issues/new)
+and go ahead, make our day :) - or drop us a short introductory email to [jobs@ory.sh](mailto:jobs@ory.sh). We believe that great engineering deserves to be paid accordingly.
