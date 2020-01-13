@@ -21,3 +21,6 @@ You should have experience in:
 * Go programming language;
 * Kubernetes from the user’s perspective; and
 * Ability to manage projects and prioritize tasks.
+
+Interested? Just [open an issue](https://github.com/ory/jobs/issues/new)
+and go ahead, make our day :) - or drop us a short introductory email to [jobs@ory.sh](mailto:jobs@ory.sh). We believe that great engineering deserves to be paid accordingly.
