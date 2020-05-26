@@ -1,11 +1,33 @@
 ## Software Engineer
 
-We are looking for people with a broad set of technical skills who are ready to take on some of technology's challenges and work with others to create world class solutions.
+Position type: Full time 
 
-We need execution focused engineers to help shape the future of cloud computing and to help us expand our already sizable effort exponentially. You will be building cutting edge cloud technology that is already powering a number of the large and innovative companies worldwide.
+Location: Munich, Germany 
 
-Your responsibilities will include:
+Minimum Requirements: 
+* Bachelors degree in computer science or equivalent practical experience. 
+* Experience with one or more general purpose programming languages including but not limited to: Java, C/C++, C#, Objective-C/Swift, Kotlin, Python, JavaScript, or Go. 
+* Ability to speak and write in English. 
 
+Preferred Requirements: 
+* Higher degree (Masters or PhD) in engineering, computer science, or technical field. 
+* Experience architecting and developing solutions to ambiguous problems. 
+* Experience working with two or more of the following: web application development, Unix/Linux environments, mobile application development, distributed and parallel systems, machine learning, information retrieval, natural language processing, networking, developing large software systems, or security software development. 
+* Ability to learn other coding languages as needed. 
+
+### About the Job 
+
+ORY's software engineers develop the next-generation cloud technologies and infrastructure that change how billions of users connect to, manage, and interact with information and one another. ORY products need to be able to handle information, users, and data at massive scale. We're looking for rocket-smart and talented engineers who bring fresh ideas from all areas, including, distributed computing, large-scale system design, networking and data storage, security, artificial intelligence, UI design and mobile. The list of relevant areas goes on and is growing exponentially. 
+
+As a software engineer, you will work on projects critical to ORY’s needs with opportunities and that shape how the ORY business grows and evolves. We need our engineers to be versatile, display leadership qualities and be enthusiastic to take on new problems across the full-stack as we continue to push emerging cloud technology forward. 
+
+ORY is an engineering company. We hire people with a broad set of technical skills who are ready to take on some of technology's greatest challenges and make a significant impact on how data is managed and shared in the cloud and on the internet.
+
+ORY needs execution focused engineers to help shape the future of cloud computing and to help us expand our already sizable effort exponentially. You will be building cutting edge cloud technology that is already powering a number of the large and innovative companies worldwide.
+
+### Responsibilities 
+
+You will be required to:
 * Work on a fast-paced, rapidly growing, high-profile project with a significant opportunity for industry-level impact on emerging container-based technologies;
 * Devise innovative ideas for solving Cloud customer problems and translate these ideas into technical designs;
 * Provide technical leadership and solve end-to-end problems, for instance, software design, efficient implementation and product offering;
@@ -13,14 +35,12 @@ Your responsibilities will include:
 * Mentoring more junior Software Engineers; and
 * Collaborate with technical leaders working on shaping Kubernetes product within Google and within the open source community worldwide, contribute to product and project strategy, roadmap definition, and requirements gathering
 
-You should have experience in:
+Additionally you should be able to:
+* Work on Cloud IaaS, PaaS or SaaS products;
+* Use cloud platforms and/or containerized application deployments;
+* Contribute to Kubernetes or any other Open Source project;
+* Use and code in Go programming language;
+* Understand Kubernetes from the user’s perspective; and
+* Be able to manage projects and prioritize tasks.
 
-* Working on Cloud IaaS, PaaS or SaaS products;
-* Using cloud platforms and/or containerized application deployments;
-* Contribution to Kubernetes or any other Open Source project;
-* Go programming language;
-* Kubernetes from the user’s perspective; and
-* Ability to manage projects and prioritize tasks.
-
-Interested? Just [open an issue](https://github.com/ory/jobs/issues/new)
-and go ahead, make our day :) - or drop us a short introductory email to [jobs@ory.sh](mailto:jobs@ory.sh). We believe that great engineering deserves to be paid accordingly.
+Interested? Drop us a short introductory email to [jobs@ory.sh](mailto:jobs@ory.sh) and please make sure to include a link to your GitHub profile.
