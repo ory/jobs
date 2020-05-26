@@ -1,10 +1,35 @@
-## Software Engineer
+## Software Engineer 
 
-We are looking for people with a broad set of technical skills who are ready to take on some of technology's challenges and work with others to create world class solutions.
+Position type:  Full time 
 
-As a key member of a small and versatile team, you design, test, deploy and maintain software solutions. We're looking for engineers who bring fresh ideas from all areas and you will specialize in building responsive and elegant web applications that can be used and scaled to millions of users.
+Location: Munich, Germany 
 
-Your responsibilities will include:
+Minimum Requirements: 
+* Bachelor's degree in Computer Science or related technical field or equivalent practical experience. 
+* Experience in JavaScript, and one or more programming languages including but not limited to: Java, C/C++, Python or Go. 
+* Experience with front end technologies and/or front end frameworks. 
+
+Preferred Requirements: 
+* Experience developing user-facing software. 
+* Experience with the latest web standards. 
+* Experience with JavaScript and front-end development frameworks such as React, MaterialUI, etc. 
+* Ability to project manage projects and prioritize tasks.  
+* Experience with and strong in web design and the fundamentals of user experience. 
+* Like Espresso ;) 
+
+### About the Job 
+
+ORY's software engineers develop the next-generation cloud technologies and infrastructure that change how billions of users connect to, manage, and interact with information and one another. ORY products need to be able to handle information, users, and data at massive scale. We're looking for rocket-smart and talented engineers who bring fresh ideas from all areas, including, distributed computing, large-scale system design, networking and data storage, security, artificial intelligence, UI design and mobile. The list of relevant areas goes on and is growing exponentially.
+
+As a software engineer, you will work on projects critical to ORY’s needs with opportunities and that shape how the ORY business grows and evolves. We need our engineers to be versatile, display leadership qualities and be enthusiastic to take on new problems across the full-stack as we continue to push emerging cloud technology forward. 
+
+As a key member of a small and versatile team, you design, test, deploy and maintain software solutions. You will specialize in building responsive and elegant web applications that can be used and scaled to millions of users.
+
+ORY is an engineering company. We hire people with a broad set of technical skills who are ready to take on some of technology's greatest challenges and make a significant impact on how data is managed and shared in the cloud and on the internet.
+
+ORY needs execution focused engineers to help shape the future of cloud computing and to help us expand our already sizable effort exponentially. You will be building cutting edge cloud technology that is already powering a number of the large and innovative companies worldwide.
+
+### Responsibilities
 
 * Design and implement simple intuitive user interfaces in partnership with designers;
 * Write code for web-based applications, create fast, easy-to-use, high volume production applications, and develop prototypes;
@@ -13,14 +38,4 @@ Your responsibilities will include:
 * Build libraries and frameworks to support web applications; and
 * Engage with back-end systems via APIs.
 
-You should have experience in:
-
-* JavaScript and front-end development frameworks e.g. React, MaterialUI;
-* Developing web services and microservices on cloud infrastructure;
-* Ability to project manage projects and prioritize tasks;
-* Drinking espresso;
-* Knowledge of user interface design; and
-* Web application development, mobile application development, user interface design, developing large software systems, and/or security software development.
-
-Interested? Just [open an issue](https://github.com/ory/jobs/issues/new)
-and go ahead, make our day :) - or drop us a short introductory email to [jobs@ory.sh](mailto:jobs@ory.sh). We believe that great engineering deserves to be paid accordingly.
+Interested? Drop us a short introductory email to [jobs@ory.sh](mailto:jobs@ory.sh) and please make sure to include a link to your GitHub profile.
