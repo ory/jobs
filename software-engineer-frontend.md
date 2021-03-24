@@ -18,13 +18,13 @@ Preferred Requirements:
 
 ### About the Job 
 
-ORY is an engineering company. We hire people with a broad set of technical skills who are ready to take on some of technology's greatest challenges and make a significant impact on how data is managed and shared in the cloud and on the internet. 
+Ory is an engineering company. We hire people with a broad set of technical skills who are ready to take on some of technology's greatest challenges and make a significant impact on how data is managed and shared in the cloud and on the internet. 
 
-ORY needs execution focused engineers to help shape the future of cloud computing and to help us expand our already sizable effort exponentially. You will be building cutting edge cloud technology that is already powering a number of the large and innovative companies worldwide.
+Ory needs execution focused engineers to help shape the future of cloud computing and to help us expand our already sizable effort exponentially. You will be building cutting edge cloud technology that is already powering a number of the large and innovative companies worldwide.
 
-ORY's software engineers develop the next-generation cloud technologies and infrastructure that change how billions of users connect to, manage, and interact with information and one another. ORY products need to be able to handle information, users, and data at massive scale. We're looking for talented engineers who bring fresh ideas from all areas and can contribute to pushing the boundaries at Ory.
+Ory's software engineers develop the next-generation cloud technologies and infrastructure that change how billions of users connect to, manage, and interact with information and one another. Ory products need to be able to handle information, users, and data at massive scale. We're looking for talented engineers who bring fresh ideas from all areas and can contribute to pushing the boundaries at Ory.
 
-As a software engineer, you will work on projects critical to ORY’s needs with opportunities and that shape how the ORY business grows and evolves. 
+As a software engineer, you will work on projects critical to Ory’s needs with opportunities and that shape how the Ory business grows and evolves. 
 
 As a key member of a small and versatile team, you design, test, deploy and maintain software solutions. You will specialize in building responsive and elegant web applications that can be used and scaled to millions of users. 
 
