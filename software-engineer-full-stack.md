@@ -1,4 +1,4 @@
-## Software Engineer
+## Software Engineer - Full-Stack
 
 Position type: Full time 
 
@@ -7,7 +7,6 @@ Location: Munich, Germany
 Minimum Requirements: 
 * Bachelors degree in computer science or equivalent practical experience. 
 * Experience with one or more general purpose programming languages including but not limited to: Java, C/C++, C#, Objective-C/Swift, Kotlin, Python, JavaScript, or Go. 
-* Ability to speak and write in English. 
 
 Preferred Requirements: 
 * Higher degree (Masters or PhD) in engineering, computer science, or technical field. 
@@ -17,13 +16,13 @@ Preferred Requirements:
 
 ### About the Job 
 
-ORY's software engineers develop the next-generation cloud technologies and infrastructure that change how billions of users connect to, manage, and interact with information and one another. ORY products need to be able to handle information, users, and data at massive scale. We're looking for rocket-smart and talented engineers who bring fresh ideas from all areas, including, distributed computing, large-scale system design, networking and data storage, security, artificial intelligence, UI design and mobile. The list of relevant areas goes on and is growing exponentially. 
+Ory is an engineering company. We hire people with a broad set of technical skills who are ready to take on some of technology's greatest challenges and make a significant impact on how data is managed and shared in the cloud and on the internet. 
 
-As a software engineer, you will work on projects critical to ORY’s needs with opportunities and that shape how the ORY business grows and evolves. We need our engineers to be versatile, display leadership qualities and be enthusiastic to take on new problems across the full-stack as we continue to push emerging cloud technology forward. 
+Ory needs execution focused engineers to help shape the future of cloud computing and to help us expand our already sizable effort exponentially. You will be building cutting edge cloud technology that is already powering a number of the large and innovative companies worldwide. 
 
-ORY is an engineering company. We hire people with a broad set of technical skills who are ready to take on some of technology's greatest challenges and make a significant impact on how data is managed and shared in the cloud and on the internet.
+Ory's software engineers develop the next-generation cloud technologies and infrastructure that change how billions of users connect to, manage, and interact with information and one another. Ory products need to be able to handle information, users, and data at massive scale. We're looking for rocket-smart and talented engineers who bring fresh ideas from all areas, including, distributed computing, large-scale system design, networking and data storage, security, artificial intelligence, UI design and mobile. The list of relevant areas goes on and is growing exponentially. 
 
-ORY needs execution focused engineers to help shape the future of cloud computing and to help us expand our already sizable effort exponentially. You will be building cutting edge cloud technology that is already powering a number of the large and innovative companies worldwide.
+As a software engineer, you will work on projects critical to Ory’s needs with opportunities and that shape how the Ory business grows and evolves. We need our engineers to be versatile, display leadership qualities and be enthusiastic to take on new problems across the full-stack as we continue to push emerging cloud technology forward. 
 
 ### Responsibilities 
 
@@ -43,4 +42,4 @@ Additionally you should be able to:
 * Understand Kubernetes from the user’s perspective; and
 * Be able to manage projects and prioritize tasks.
 
-Interested? Drop us a short introductory email to [jobs@ory.sh](mailto:jobs@ory.sh) and please make sure to include a link to your GitHub profile.
+Interested? Drop us a short introductory email to [jobs@ory.sh](mailto:jobs@ory.sh) and please make sure to include a link to your GitHub profile. 
