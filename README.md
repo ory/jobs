@@ -6,4 +6,4 @@ Interested? Drop us a short introductory email to [jobs@ory.sh](mailto:jobs@ory.
 
 ### Open Positions
 
-All open positions are listed on ory.sh/jobs](https://www.ory.sh/jobs/).
+All open positions are listed on [ory.sh/jobs](https://www.ory.sh/jobs/).
